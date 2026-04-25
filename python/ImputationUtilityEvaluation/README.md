@@ -1,4 +1,4 @@
-# Imputation Utility Evaluation
+# Imputation Evaluation
 
 ## Overview
 This module evaluates the impact of different KNN imputation settings on downstream predictive performance.
