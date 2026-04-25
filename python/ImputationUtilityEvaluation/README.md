@@ -6,10 +6,7 @@ This module evaluates the impact of different KNN imputation settings on downstr
 Missing values were imputed using K-Nearest Neighbors (K-NN) with different values of k (k= 1, 3, 5, 7, 9), and the resulting datasets were compared based on their utility for machine learning models.
 
 
-### Utility Definition
-Utility is defined as the effectiveness of the imputed dataset for predictive modeling.
-
-It is evaluated using:
+The effectiveness of the imputed dataset is evaluated using:
 - ROC-AUC (primary metric)
 - Model performance stabilit
 
