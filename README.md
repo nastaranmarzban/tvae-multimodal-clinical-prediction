@@ -61,7 +61,7 @@ Note: The dataset is not included in this repository due to data usage restricti
 
 ### R
 Run preprocessing and imputation scripts:
-- `R/knn_imputation.R`
+- `R/KNN.R`
 
 ### Python
 Run modeling pipeline scripts in the `python/` folder.
