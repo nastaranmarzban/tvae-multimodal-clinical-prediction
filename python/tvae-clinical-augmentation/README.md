@@ -26,3 +26,7 @@ TVAE is used to perform data augmentation on a limited clinical dataset. The goa
   - Disease severity
   - Conversion status
 - Results suggest that TVAE learns clinically meaningful representations beyond statistical correlations
+
+## Visualization
+- UMAP was used to reduce latent space dimensionality for visualization
+- Clear structure was observed in the embedding space, supporting interpretability of the learned representations
